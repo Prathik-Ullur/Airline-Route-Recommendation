@@ -14,7 +14,6 @@ Perform information analysis for target clients and provide actionable insights:
 - Southwest Airlines
 - Kayak
 
-
 Personal Goals: 
 - Real life, non-Kaggle, raw data
 - Large amounts of public data (30 GB + reduced to 6 GB)
@@ -26,3 +25,8 @@ Technologies Used
 - SQL 
 - Databricks
 - Python and spark
+
+## Tableau 
+
+https://public.tableau.com/profile/namita.ramesh#!/vizhome/On-timePerformanceofUSAirlines/On-timePerformance
+
