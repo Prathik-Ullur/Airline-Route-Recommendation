@@ -1,5 +1,7 @@
 # On-time Performance of Airlines
 
+![](https://www.smartertravel.com/uploads/2015/03/Airline-Fees-HERO-1400x500.jpg)
+
 ## Overview
 Airline delays are a logistical and financial problem to passengers, airlines, and governing bodies alike. The delays could be due to one of the following reasons:
 1. Weather delay
