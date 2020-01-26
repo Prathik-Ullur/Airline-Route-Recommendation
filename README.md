@@ -26,7 +26,7 @@ Technologies Used
 - Databricks
 - Python and spark
 
-## Tableau 
+## Tableau Dashboard
 
 https://public.tableau.com/profile/namita.ramesh#!/vizhome/On-timePerformanceofUSAirlines/On-timePerformance
 
